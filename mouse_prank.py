@@ -7,4 +7,4 @@ while True:
 	time.sleep(0.5)
 	pyautogui.moveTo(x, y, 1.5)
 
-	# ctrl + F2 or us fail safe
+	# to stop use fail safe
