@@ -20,3 +20,4 @@ while True:
 	time.sleep(1)
 	pyautogui.write('I WILL NOT STOP', interval=0.25)
 	time.sleep(2.5)
+	# to stop use fail safe
